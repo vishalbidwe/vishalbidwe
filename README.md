@@ -15,7 +15,11 @@
     - https://github.com/vishalbidwe/gcp-vm-ops-agent-terraform
 * Automating Terraform with GitHub Actions for Continuous Integration on Google Cloud Platform
     - This repository showcases the deployment of a WordPress server on Google Cloud Platform and demonstrates the utilization of GitHub Actions to create a flexible, native continuous integration pipeline for Terraform.
-    - https://github.com/vishalbidwe/gcp-terraform-cicd-github-actions 
+    - https://github.com/vishalbidwe/gcp-terraform-cicd-github-actions
+ 
+* Pulumi IaC codes for Google Cloud Platform
+   - Pulumi IaC examples for Google Cloud Platform using python and other languages. 
+   - https://github.com/vishalbidwe/pulumi-iac-gcp
 
 #### Languages and Tools
 <p align="left"> <a href="https://www.ruby-lang.org/en/" target="_blank"> <img src="https://www.ruby-lang.org/images/header-ruby-logo@2x.png" alt="ruby" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank"> <img src="https://www.gstatic.com/devrel-devsite/prod/v0e0f589edd85502a40d78d7d0825db8ea5ef3b99ab4070381ee86977c9168730/cloud/images/cloud-logo.svg" alt="gcloud" width="60" height="40"/> </a>

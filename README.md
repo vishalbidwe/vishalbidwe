@@ -16,7 +16,11 @@
 * Automating Terraform with GitHub Actions for Continuous Integration on Google Cloud Platform
     - This repository showcases the deployment of a WordPress server on Google Cloud Platform and demonstrates the utilization of GitHub Actions to create a flexible, native continuous integration pipeline for Terraform.
     - https://github.com/vishalbidwe/gcp-terraform-cicd-github-actions
- 
+
+* Docker Containerizing and Running a Ruby Application
+   - This repo walks you through containerizing and running a Ruby application.
+   - https://github.com/vishalbidwe/ruby-docker
+
 * Pulumi IaC codes for Google Cloud Platform
    - Pulumi IaC examples for Google Cloud Platform using python and other languages. 
    - https://github.com/vishalbidwe/pulumi-iac-gcp

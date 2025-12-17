@@ -1,6 +1,5 @@
 #### Hi, I am Vishal 👋
 - 🔭 *I’m currently working as Cloud Engineer - Developement*
-- 🌱 *I’m currently learning Docker, Kubernetes*
 - 👯 *I’m looking to collaborate on OpenSource tools related to DevOps*
 - 💬 *Ask me about Ruby, Google Cloud Platform (GCP), Terraform, GitHub Actions, CI/CD*
 

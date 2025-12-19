@@ -1,5 +1,5 @@
 #### Hi, I am Vishal 👋
-- 🔭 *I’m currently working as Founder/Chief Engineer - Development PropNanded.com *
+- 🔭 *I’m currently working as Founder/Chief Engineer - Development PropNanded.com*
 - 👯 *I’m looking to collaborate on OpenSource tools related to DevOps*
 - 💬 *Ask me about Ruby, Google Cloud Platform (GCP), Terraform, GitHub Actions, CI/CD*
 
